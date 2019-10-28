@@ -1,0 +1,24 @@
+# Translation of Themes - businesso dark in Japanese
+# This file is distributed under the same license as the Themes - businesso dark package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-07-21 12:52:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - businesso dark\n"
+
+#. Theme Name of the plugin/theme
+msgid "businesso dark"
+msgstr "businesso dark"
+
+#. Description of the plugin/theme
+msgid "Child Theme of Businesso. This is a Boxed Layout of the Parent Theme Businesso. This theme supports Custom Background and Background Color."
+msgstr "Businesso の子テーマ。親テーマビジネスのボックスレイアウトです。このテーマはカスタム背景と背景色をサポートしています。"
+
+#. Author of the plugin/theme
+msgid "asiathemes"
+msgstr "asiathemes"
